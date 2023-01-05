@@ -1,7 +1,7 @@
 {
   // editor
   "editor.wordWrapc": "on",
-  "editor.fontSize": 16,
+  // "editor.fontSize": 17,
   // "editor.lineHeight": 20,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,

@@ -1,0 +1,30 @@
+{
+  "name": "proffyweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwilker/proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwilker/proffy/issues"
+  },
+  "homepage": "https://github.com/johnwilker/proffy#readme",
+  "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.10",
+    "express": "^4.18.2",
+    "nunjucks": "^3.2.3",
+    "python": "^0.0.4",
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
